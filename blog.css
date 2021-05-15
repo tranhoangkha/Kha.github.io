@@ -1,0 +1,26 @@
+article .more{
+    float: right;
+    min-width: 65px;
+    padding: 0 5px;
+    height: 26px;
+    color: #fff;
+    text-align: center;
+    text-transform: capitalize;
+    border-radius: 3px;
+    background: #9c3041;
+}
+*{
+    text-decoration: none;
+}
+article{
+    margin: auto;
+    width: 1000px;
+}
+article h2 a{
+    color: #ff0202; 
+    font-size: 30px; 
+    margin: 0;
+    text-transform: uppercase;
+    
+    
+}
